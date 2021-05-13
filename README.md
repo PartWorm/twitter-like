@@ -1,4 +1,4 @@
-# twitter-like
+# twitter-like-legacy
 
 <http://partworm.dothome.co.kr/>
 
